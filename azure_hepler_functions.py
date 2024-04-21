@@ -123,3 +123,25 @@ def blob_to_df(connection_string, container_name, blob_name):
 
     return df
     
+    
+def blob_to_df_polars(connection_string, container_name, blob_name):
+    from azure.storage.blob import BlobServiceClient
+    import polars as pl
+    import io
+    
+    # Connection string and container name
+    connection_string = connection_string
+    container_name = container_name
+    blob_name = blob_name
+    
+    # Create a BlobServiceClient
+    blob_service_client = BlobServiceClient.from_connection_string(connection_string)
+
+    # Get the blob client
+    blob_client = blob_service_client.get_blob_client(container=container_name, blob=blob_name)
+
+    # Stream blob content directly into a DataFrame
+    blob_data_stream = blob_client.download_blob().content_as_text()
+    df = pl.read_csv(io.StringIO(blob_data_stream))
+
+    return df
