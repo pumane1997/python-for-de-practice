@@ -1,0 +1,55 @@
+﻿Customer_No,Customer_Name,Cust. Posting Group,Delivery Partner,Cust Short Name,Delivery partner order
+1,POS Cash Customer,CORPORATE,Other,Oth,5
+AMZKR,Amazon-KAR,DELIVERY,Amazon,Amz,3
+CORP001,Corporate Sales-Sundry Debtors,CORPORATE,Corporate,Corp,7
+CUST076,Gulzar Foods,CORPORATE,Corporate,Corp,7
+CUST078,"Bundl Technologies Pvt.Ltd(Swiggy ""Rent"")",DELIVERY,Swiggy,Swg,1
+CUST079,Eat Good Technologies Pvt Ltd.,CATERERS,Other,Oth,5
+CUST080,Tonguestun Food Network Pvt Ltd.,CATERERS,Other,Oth,5
+CUST081,Tasty Bite Eatables Limited,CORPORATE,Corporate,Corp,7
+DUNZO,Dunzo Digital Private Limited,DELIVERY,Own App,Own,4
+OTCPFCPL,One Time Customer,FRANCHISE,Other,Oth,5
+PFCPLAP,PARADISE-AP ,CORPORATE,Other,Oth,5
+PFCPLHAR,PFCPL-HAR,CORPORATE,Other,Oth,5
+PFCPLKAR,PFCPL-KAR,CORPORATE,Other,Oth,5
+PFCPLTN,PFCPL-TN,CORPORATE,Other,Oth,5
+PFCPLTS,PARADISE-TS,CORPORATE,Other,Oth,5
+PFCPLWB,PFCPL-WB,CORPORATE,Other,Oth,5
+RAZORPAY,RAZORPAY TS,DELIVERY,Own App,Own,4
+SWGAP,Swiggy-AP,DELIVERY,Swiggy,Swg,1
+SWGDL,SWIGGY-ND,DELIVERY,Swiggy,Swg,1
+SWGHR,Swiggy-HR,DELIVERY,Swiggy,Swg,1
+SWGKR,Swiggy-KAR,DELIVERY,Swiggy,Swg,1
+SWGPOPAP,SWGPOPAP,DELIVERY,Swiggy,Swg,1
+SWGPOPDL,SWIGGYPOP,DELIVERY,Swiggy,Swg,1
+SWGTN,Swiggy-TN,DELIVERY,Swiggy,Swg,1
+SWGTS,Swiggy-TS,DELIVERY,Swiggy,Swg,1
+SWGWB,Swiggy-Wb,DELIVERY,Swiggy,Swg,1
+SWGXLKR,SWIGGY XL,DELIVERY,Swiggy,Swg,1
+UBERAP,Uber Management B.V (ANP),DELIVERY,Uber,Ubr,6
+UBERHR,Uber Management B.V (HR),DELIVERY,Uber,Ubr,6
+UBERKR,Uber Management B.V (KAR),DELIVERY,Uber,Ubr,6
+UBERTN,Uber Management B.V (TN),DELIVERY,Uber,Ubr,6
+UBERTS,Uber Management B.V (TS),DELIVERY,Uber,Ubr,6
+ZMTAP,Zomato-AP,DELIVERY,Zomato,Zom,2
+ZMTEASYAP,Zomato Easy-AP,DELIVERY,Zomato,Zom,2
+ZMTEASYHR,Zomato Easy-HR,DELIVERY,Zomato,Zom,2
+ZMTEASYKR,Zomato Easy-KAR,DELIVERY,Zomato,Zom,2
+ZMTEASYTN,Zomato Easy-TN,DELIVERY,Zomato,Zom,2
+ZMTEASYTS,Zomato Easy-TS,DELIVERY,Zomato,Zom,2
+ZMTHR,Zomato-HR,DELIVERY,Zomato,Zom,2
+ZMTKR,ZomatoKAR,DELIVERY,Zomato,Zom,2
+ZMTTN,Zomato-TN,DELIVERY,Zomato,Zom,2
+ZMTTS,ZOMATO CUST-TS,DELIVERY,Zomato,Zom,2
+ZMTWB,Zomato-WB,DELIVERY,Zomato,Zom,2
+ZOMATOPRO-HYD,Zomato Media Private Limited,DELIVERY,Zomato,Zom,2
+ZOMATOPRO-KAR,Zomato Media Private Limited,DELIVERY,Zomato,Zom,2
+ZOMATOPRO-WB,Zomato Media Private Limited,DELIVERY,Zomato,Zom,2
+CFCRTS,Corporate Food Court Revenue Sale,CFCR,Corporate,Corp,7
+CUST082,LOYAL HOSPITALITY PRIVATE LIMITED,CORPORATE,Corporate,Corp,7
+DOTPEAP,Dotpe AP,DOTPE,DotPe,DtPe,8
+DOTPEBL,DOTPEBL,DOTPE,DotPe,DtPe,8
+DOTPECH,DOTPECH,DOTPE,DotPe,DtPe,8
+DOTPEGG,DOTPEGG,DOTPE,DotPe,DtPe,8
+DOTPETS,Dotpe TS,DOTPE,DotPe,DtPe,8
+DOTPEWB,DOTPEWB,DOTPE,DotPe,DtPe,8

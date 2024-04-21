@@ -1,0 +1,17 @@
+﻿As per ERP,Channel1,Channel2,Short Channel,Channel Sort,Type,Type2
+DELIVERY,Delivery,Delivery,Del,3,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+DINE-IN,Restaurant,Dine-in,DI,1,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+PARADISE APP,Ownapp,Delivery,Del,3,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+TAKEAWAY,Takeaway,Takeaway,TA,2,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+PQS,Bakery,Others,Oth,4,NULL,Incl Bakery & Mainhall
+DINE-IN 1,Restaurant,Dine-in,DI,1,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+EXPRESS,Restaurant,Dine-in,DI,1,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+DINE-IN 2,Restaurant,Dine-in,DI,1,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+MAIN HALL,Mainhall,Others,Oth,4,NULL,Incl Bakery & Mainhall
+DINE-IN 3,Restaurant,Dine-in,DI,1,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+NULL,Others,Others,Oth,4,NULL,Incl Bakery & Mainhall
+TAKEAWAYBULK,Takeaway,Takeaway,TA,2,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+SIS,Takeaway,Takeaway,TA,2,Excl Bakery & Mainhall,Incl Bakery & Mainhall
+Modern Retail,Others,Others,Oth,4,NULL,Incl Bakery & Mainhall
+9001336,Others,Others,Oth,4,NULL,Incl Bakery & Mainhall
+Paradise-App,Ownapp,Delivery,Del,3,Excl Bakery & Mainhall,Incl Bakery & Mainhall
